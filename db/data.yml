@@ -1,0 +1,216 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - '2018-09-28 09:54:22.628427'
+    - '2018-09-28 09:54:22.628427'
+
+---
+recipes:
+  columns:
+  - id
+  - name
+  - recipe
+  - cruisine
+  - meal_type
+  - tags
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Tomato soup
+    - "Ingredients (1 cup = 250 ml)\r\n* 4 medium to large tomatoes\r\n* 2 to 3 small
+      to medium garlic cloves (lahsun), finely chopped or 1/2 teaspoon finely chopped
+      garlic\r\n* 1 small onion, finely chopped OR 1/4 cup finely chopped onion\r\n*
+      l tej patta (indian bay leaf)\r\n* 1 teaspoon corn flour (corn starch) + 2 tablespoon
+      water\r\n* l or 1.5tablespoon butter\r\n* 1 cup water\r\n* 1 tablespoon cream
+      (25- BOO/0 fat) - you can consider adding 2 tablespoon cream or dot with cream
+      when serving the soup.\r\n* 1/2 tablespoon regular sugar or unrefined cane sugar
+      or add as required\r\n* l or 2 slices of bread - brown bread or whole wheat
+      or white bread\r\n* freshly crushed or powdered black pepper as required (kali
+      mirch powder)\r\n* salt as required\r\n\r\nPreparing tomato puree tor tomato
+      soup\r\n1. first rinse the tomatoes really well and keep aside.\r\n2. remove
+      the stems if there are any.\r\n3. in a saucepan or pot take enough water (approx
+      5-6 cups). so that the tomatoes get\r\nimmersed completely.\r\n4. add 1 teaspoon
+      salt to the water and bring the water to a rolling boil.\r\n5. add the tomatoes
+      and switch off the fire.\r\n6. close the saucepan or pot with the lid.\r\n7.
+      let the tomatoes be immersed in the hot water for 20-30 minutes.\r\n8. drain
+      the water and let them become warm or cool down.\r\n9. in the meantime, finely
+      chop the onion and garlic. keep aside.\r\n10. once the tomatoes become warm
+      or cool down, then peel them. slice off the eye part from\r\nthe tomatoes.\r\n11.
+      then directly chop the tomatoes above the blenderjar so that thejuices drop
+      directly inside the blenderjar.\r\n12. if you cannot do this, then chop the
+      tomatoes on a chopping board and add everything to the\r\nblender including
+      thejuices.\r\n13. blend the tomatoes to a smooth puree. keep aside.\r\n\r\nMaking
+      bread for tomato soup\r\n1. heat a frying pan (tava or griddle) or pre heat
+      the oven.\r\n2. place the bread in the pan and on a low flame toast the bread
+      till its browned and crisp from\r\nboth sides.\r\n3. if using the oven, place
+      the bread in the oven at 200 degrees C and toast the bread till its\r\nbrowned
+      and crisp.\r\n4. once the bread is toasted and golden, slice it into cubes.
+      keep aside.\r\n\r\nMaking tomato soup\r\n1. make a smooth paste of the 1 teaspoon
+      cornflour with 2 tablespoon water.\r\n2. melt butter in a pan. add the bay leaf
+      and saute for 1 to 2 seconds\r\n3. add the finely chopped garlic and saute for
+      some seconds on a low flame. no need to brown\r\n4. add the chopped onions and
+      saute till the onions become translucent.\r\n5. now add the tomato puree.\r\n6.
+      stir and then add water, salt and pepper.\r\n7. on a low to medium flame, let
+      the soup come to a gentle boil.\r\n8. stir the corn flour paste (since the corn
+      flour settles down) that we made earlier and add it to the soup.\r\n9. stir
+      well and simmer for 3 to 4 minutes till the tomato soup thickens on a low flame.\r\n10.
+      now add sugar and stir. then add the cream and simmer for a minute.\r\n11. pour
+      the steaming hot tomato soup in soup bowls.\r\n12. add the bread croutons to
+      the soup.\r\n13. garnish tomato soup with parsley or coriander leaves.\r\n14.
+      serve the tomato soup hot.\r\n\r\nrecipe notes\r\n1. instead of butter you can
+      use olive oil or coconut oil."
+    - Indian
+    - Appetizer
+    - soup
+    - '2018-10-01 07:45:58.928115'
+    - '2018-10-02 13:39:12.510680'
+  - - 2
+    - Spinach Soup
+    - "ingredients (1 cup 2 250 ml)\r\n* 1.5 to 2 cups spinach (palak), chopped\r\n*
+      1/4 cup onions, chopped\r\n* 2 to 3 garlic cloves (lahsu n), finely chopped\r\n*
+      1 tablespoon gram flour (besan)\r\n* 1/4 teaspoon cumin powder (jeera powder)\r\n*
+      1 tej patta (indian bay leaf) - small size\r\n* 2 cups water\r\n* 1 or 1.5 tablespoon
+      olive oil or butter\r\n* black pepper powder as required\r\n* salt as required\r\n*
+      cream fortopping (optional)\r\n* some freshly crushed black pepper or grated
+      cheese or paneer/cottage cheese or cream for garnishing - optional\r\n\r\npreparation:\r\n1.
+      first rinse the palak leaves (spinach) very well in water.\r\n2. then chop the
+      palak leaves and keep aside.\r\n\r\nmaking palak soup\r\n1. heat oil or butter
+      in a sauce pan. add the bay leaf and fry for 2-3 seconds\r\n2. now add the chopped
+      garlic and fry till the garlic is light browned or browned. don't burn the garlic.\r\n3.
+      saute the garlic on a low flame. add chopped onions and saute till the onions
+      are softened.\r\n4. add the chopped palak/spinach. stir and season with black
+      pepper and salt.\r\n5. now add the besan or gram flour. stir well and pour 2
+      cups water.\r\n6. bring the mixture to a boil and then simmer for 3-4 minutes.\r\n7.
+      add cumin powder and stir well.\r\n8. switch off the fire and let the palak
+      soup mixture cool.\r\n9. when the mixture's heat has reduced or has become warm,
+      then blend with a hand blender or in a mixer till smooth.\r\n10. remove the
+      tej patta (indian bay leaf) while blending.\r\n11. check the seasoning and add
+      some more salt or pepper if required.\r\n12. if the palak soup looks thick,
+      then add 1/4 or 1/2 cup water and stir.\r\n13. keep the well blended palak soup
+      back on the stove for simmering for 2-3 minutes.\r\n14. serve palak soup hot
+      sprinkled with some freshly crushed black pepper or grated paneer, cheese or
+      topped with some cream."
+    - Indian
+    - Appetizer
+    - soup
+    - '2018-10-02 13:34:54.879718'
+    - '2018-10-02 13:34:54.879718'
+  - - 3
+    - Cream of Broccoli Soup
+    - "Ingredients (1 cup 2 250 ml)\r\n* 200 to 250 grams broccoli - 1 medium broccoli
+      head\r\n* 1 small onion chopped - about 1/4 cup chopped onion\r\n* 1 or 2 garlic
+      cloves (lahsun) - chopped\r\n* 1/4 teaspoon dry oregano or any of your favorite
+      herb or mixed dry herbs\r\n* 1 pinch nutmeg powder or grated nutmeg (jaiphal
+      powder)\r\n* 1.5 cups water or vegetable stock\r\n* 1.5 cups full fat whole
+      milk\r\n* 1 to 1.5 tablespoon all purpose flour (maida) Or whole wheat flour
+      (atta)\r\n* 2 tablespoon butter\r\n* salt as required\r\n* freshly crushed black
+      pepper (kali mirch powder) as required\r\n\r\nblanching broccoli florets:\r\n1.
+      first break the broccoli into florets or you can chop them.\r\n2. heat enough
+      water with 1/4 tsp salt in a pot. let the water vigorously boil.\r\n3. switch
+      off the flame and add the broccoli florets.\r\n4. wait for about 15-20 seconds
+      and then drain the florets. reserve a few broccoli florets for garnish.\r\n5.
+      the above blanching method is to get rid of the insects in the broccoli.\r\n\r\nmaking
+      cream of broccoli soup:\r\n1. heat butter in a sauce pan. add the onions and
+      garlic and saute till they soften.\r\n2. add the flour. stir and saute for 2
+      minutes on a low flame.\r\n3. then add the drained broccoli. stir and then add
+      water or vegetable stock.\r\n4. stir well and cover the pan with its lid.\r\n5.
+      simmer till the broccoli is cooked well and tender... about 6 to 7 mins.\r\n6.
+      do check in between.\r\n7. in the meantime heat milk on stove top or in the
+      microwave.\r\n8. no need to boil,just heat the milk.\r\n9. when the soup mixture
+      is still slightly hot or warm, using an immersion hand blender, blend\r\nthe
+      soup till smooth in the same sauce pan. you can also blend in a regular electric
+      blender.\r\n10. add hot milk to the pureed soup and stir well.\r\n11. keep the
+      soup pan on the stove top and begin to simmer on a low flame.\r\n12. season
+      with oregano.\r\n13. just gently heat through the soup. no need to bring it
+      to a boil. give occasional stirs.\r\n14. lastly season with salt, freshly crushed
+      black pepper and nutmeg powder.\r\n15. pour soup into individual serving bowls
+      and garnish with broccoli florets.\r\n16. you can also top the cream of broccoli
+      soup with some grated cheddar or sliced cheese like parmesan. toasted bread
+      croutons can also be used as a garnish.\r\n17. serve cream of broccoli soup
+      hot, plain or with toasted buttered bread or baguette."
+    - Indian
+    - Appetizer
+    - soup
+    - '2018-10-02 13:47:45.577741'
+    - '2018-10-02 13:47:45.577741'
+  - - 4
+    - Makai ka Shorba
+    - "ingredients (1 cup 2 250 ml)\r\n* 300 grams corn with cob or 1 medium to large
+      corn, about 1 cup corn, out of which 3/4 cup corn ground to a paste and 1/4
+      cup corn to be added later\r\n* 1 tablespoon oil (can use sunflower oil or any
+      neutral flavored oil. can also use butter instead of oil)\r\n* 1 small to medium
+      sized tejpatta (indian bay leaf)\r\n* 1/4 cup sliced spring onion whites or
+      1/4 cup finely chopped onions\r\n* 1/4 teaspoon ginger-garlic paste\r\n* 1 cup
+      veg stock + 2 cups water or total 3 cups water or 3 cups veg stock\r\n* 1/4
+      teaspoon coriander powder (dhania powder)\r\n* 1/4 teaspoon red chilli powder
+      (lal mirch powder)\r\n* 1/4 teaspoon cumin powder (jeera powder)\r\n* 143 to
+      1/4 teaspoon garam masala powder\r\n* 1 tablespoon chopped spring onion greens\r\n*
+      1 tablespoon chopped coriander leaves (d hania patta)\r\n* salt as required\r\n\r\npreparation
+      for makai ka shorba:\r\n1. steam or pressure cook 1 medium to large corn cob.
+      you can steam the sweet corn cob in a steamer or a pressure cooker. if pressure
+      cooking, then pressure cook for 2 to 3 whistles in 1.5 cups water. you can also
+      use 1 cup of tinned corn kernels.\r\n2. when the corn cob becomes warm or cools
+      down, slice off the corn kernels from the cob. be careful while slicing the
+      kernels. you will need 1 cup corn kernels.\r\n3. now add 3/4 cup of the steamed
+      corn kernels in a grinder or blender. grind to a smooth paste. if required you
+      can add 1 to 2 tablespoons water while grinding. keep the ground corn paste
+      aside. the remaining 1/4 cup corn we need to add while serving the corn soup.\r\n\r\nmaking
+      makai ka shorba:\r\n1. heat 1 tablespoon oil in a pan or kadai. add the tej
+      patta and saute for 1 to 2 seconds. then add 1/4 cup sliced spring onion whites.
+      instead ofspring onion, you can even use one small onion.\r\n2. saute till the
+      onions turn translucent.\r\n3. then add 1/4 tsp ginger-garlic paste and saute
+      till the raw aroma of ginger-garlic goes away.\r\n4. now add the corn paste
+      and saute for a minute.\r\n5. then add 3 cups water. i used veg stock, so i
+      added 1 cup veg stock + 2 cups water. if you have veg stock, then you can even
+      add 3 cups of veg stock. if you do not have veg stock, then just add water.\r\n6.
+      mix and stir very well. there should be no lumps. break the lumps if any with
+      the spoon.\r\n7. next add 1/4 tsp cumin powder/jeera powder, 1/4 tsp coriander
+      powder/dhania powder\r\n8. and 1/8 tsp red chilli powder (lal mirch powder)
+      or about a pinch ortwo of red chilli powder.\r\n9. stir and mix the spices with
+      the shorba.\r\n10. season with salt as per taste. stir again.\r\n11. now simmerthe
+      makai ka shorba on a low to medium flame for 7 to 8 minutes without a lid.\r\n12.
+      simmer till the shorba comes to a boil.\r\n13. add 1/4 tsp garam masala powder
+      and switch off the flame.\r\n14. lastly add 1 tablespoon chopped spring onion
+      greens. if not using spring onion greens, then you can add 1 tablespoon chopped
+      coriander leaves.\r\n15. serve makai ka shorba hot garnished with finely chopped
+      coriander leaves and 1/4 cup corn kernels. add some of the corn kernels in the
+      shorba while serving.\r\n\r\n"
+    - Indian
+    - Appetizer
+    - soup
+    - '2018-10-02 14:03:24.464455'
+    - '2018-10-02 14:03:24.464455'
+  - - 5
+    - Aloo Toast Sandwich
+    - "ingredients (1 cup = 250 ml)\r\n* 14 slices brown bread or white bread\r\n*
+      5 medium sized potatoes, boiled, peeled and mashed\r\n* 1 teaspoon chaat masala
+      or add as required\r\n* 1 teaspoon red chili powder or add as required\r\n*
+      1 teaspoon cumin powder (jeera powder)\r\n* 1/4 cup chopped coriander leaves\r\n*
+      1/2 cup grated cheese or 7 cheese slices or cheese spread, as required butter
+      as required, optional\r\n* any veggie slices like cucumber or tomato or onion
+      slices, optional\r\n* salt or black salt to taste, as required\r\n\r\nhow to
+      make recipe\r\n1. mix chopped coriander leaves, chaat masala, red chili powder,
+      cumin powder, salt with the mashed potatoes. add more of the spice powders if
+      you want some more spice and tanginess.\r\n2. on slices of bread, apply butter.\r\n3.
+      now apply cheese spread or top up with some grated cheese or place a cheese
+      slice.\r\n4. add the mashed potato mixture on top of the cheese.\r\n5. top up
+      the mashed potato with a little grated cheese\r\n6. cover with another buttered
+      bread slice.\r\n7. if not using grated cheese, apply cheese spread on both the
+      bread slices.\r\n8. any veggie of your choice can also be added to the sandwich.\r\n9.
+      toast or grill the sandwich till browned and crisp.\r\n10. spread some butter
+      on the hot toast sandwich and serve aloo toast sandwich hot with green chutney
+      or tomato ketchup."
+    - Indian
+    - Breakfast
+    - bread
+    - '2018-10-02 14:13:07.806350'
+    - '2018-10-02 14:13:07.806350'
