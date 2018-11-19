@@ -17,6 +17,11 @@
   </div>
 
   <div class="field">
+    <%= form.label :ingredients %>
+    <%= form.text_area :ingredients, id: :recipe_ingredients %>
+  </div>
+
+  <div class="field">
     <%= form.label :recipe %>
     <%= form.text_area :recipe, id: :recipe_recipe %>
   </div>
