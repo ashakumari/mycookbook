@@ -14,13 +14,13 @@ ActiveRecord::Schema.define(version: 20181119164037) do
 
   create_table "recipes", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string "name"
+    t.text "ingredients"
     t.text "recipe"
     t.string "cruisine"
     t.string "meal_type"
     t.string "tags"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.text "ingredients"
   end
 
 end

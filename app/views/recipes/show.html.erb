@@ -1,34 +1,35 @@
+<h1><%= @recipe.name %></h1>
+
 <p id="notice"><%= notice %></p>
 
+<div class="container">
 <p>
-  <strong>Name:</strong>
-  <%= @recipe.name %>
+  <label>Ingredients</label>
+  <pre><%= @recipe.ingredients %></pre>
 </p>
 
 <p>
-  <strong>Ingredients:</strong>
-  <%= @recipe.ingredients %>
+  <label>Recipe</label>
+  <pre><%= @recipe.recipe %></pre>
 </p>
 
 <p>
-  <strong>Recipe:</strong>
-  <%= @recipe.recipe %>
-</p>
-
-<p>
-  <strong>Cruisine:</strong>
+  <label>Cruisine</label>
   <%= @recipe.cruisine %>
 </p>
 
 <p>
-  <strong>Meal type:</strong>
+  <label>Meal type</label>
   <%= @recipe.meal_type %>
 </p>
 
 <p>
-  <strong>Tags:</strong>
+  <label>Tags</label>
   <%= @recipe.tags %>
 </p>
+</div>
 
-<%= link_to 'Edit', edit_recipe_path(@recipe) %> |
-<%= link_to 'Back', recipes_path %>
+<div class="links">
+  <%= link_to 'Edit', edit_recipe_path(@recipe) %> |
+  <%= link_to 'Back', recipes_path %>
+</div>
