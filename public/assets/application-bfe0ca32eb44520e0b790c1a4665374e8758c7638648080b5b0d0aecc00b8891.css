@@ -1,0 +1,245 @@
+/* line 7, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+h1 {
+  text-align: center;
+}
+
+/* line 11, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+.container, .forms {
+  width: 50%;
+  max-width: 750px;
+  margin: 3em auto 0 auto;
+  border-radius: 7px;
+  -webkit-box-shadow: 0 0 4px 3px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 4px 4px rgba(0, 0, 0, 0.03);
+  padding: 2% 5% 2% 2%;
+}
+
+/* line 21, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+.container pre, .forms pre {
+  white-space: pre-wrap;
+  /* Since CSS 2.1 */
+  white-space: -moz-pre-wrap;
+  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;
+  /* Opera 4-6 */
+  white-space: -o-pre-wrap;
+  /* Opera 7 */
+  word-wrap: break-word;
+  /* Internet Explorer 5.5+ */
+  background-color: transparent;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+/* line 36, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+#recipes {
+  width: 100%;
+}
+
+/* line 40, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+/* line 45, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+.clearfix:after {
+  clear: both;
+}
+
+/* line 49, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+#notice {
+  text-align: center;
+  font-size: 0.8em;
+  color: #1F7972;
+  font-weight: 100;
+}
+
+/* line 56, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+.links {
+  display: block;
+  margin: 1.5em auto 0 auto;
+  text-align: center;
+  font-size: 1em;
+  color: white;
+}
+/* line 62, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+.links a {
+  color: white;
+}
+
+/* line 67, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+label {
+  color: #1F7972;
+  font-weight: bold;
+}
+
+/* line 72, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+input[type="text"], textarea {
+  width: 100%;
+  margin: .5em 2% 1em 0;
+  display: inline-block;
+  outline: none;
+  background: rgba(250, 250, 250, 0.4);
+  border: none;
+  border-radius: 4px;
+  padding: 1em 2em;
+}
+
+/* line 83, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+input[type="text"] {
+  height: 10px;
+}
+
+/* line 87, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+textarea {
+  height: 300px;
+}
+
+/* line 91, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+input[type="submit"] {
+  background: white;
+  outline: none;
+  border: none;
+  height: 40px;
+  border-radius: 4px;
+  width: 25%;
+  display: inline-block;
+  transition: all .4s ease-in-out;
+  cursor: pointer;
+  color: #1F7972;
+}
+/* line 102, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+input[type="submit"]:hover {
+  background: #1F7972;
+  color: white;
+}
+
+/* line 108, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/recipes.scss */
+::-webkit-input-placeholder {
+  color: #1F7972;
+}
+/* line 1, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+body {
+  background-color: #fff;
+  color: #333;
+  margin: 33px;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* line 10, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* line 16, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+pre {
+  background-color: #eee;
+  padding: 10px;
+  font-size: 11px;
+}
+
+/* line 22, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+a {
+  color: #000;
+}
+/* line 25, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+a:visited {
+  color: #666;
+}
+/* line 29, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+a:hover {
+  color: #fff;
+  background-color: #000;
+}
+
+/* line 35, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+th {
+  padding-bottom: 5px;
+}
+
+/* line 39, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+td {
+  padding: 0 5px 7px;
+}
+
+/* line 44, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+div.field, div.actions {
+  margin-bottom: 10px;
+}
+
+/* line 49, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+#notice {
+  color: green;
+}
+
+/* line 53, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+/* line 59, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+#error_explanation {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px 7px 0;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+/* line 66, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+#error_explanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px -7px 0;
+  background-color: #c00;
+  color: #fff;
+}
+/* line 76, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+#error_explanation ul li {
+  font-size: 12px;
+  list-style: square;
+}
+
+/* line 82, C:/Users/Asha/Documents/SourceCode/Personal Projects/mycookbook/app/assets/stylesheets/scaffolds.scss */
+label {
+  display: block;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
+
+
+html {
+	height: 100%;
+}
+
+body {
+ 	height: 100%;
+  	background: -webkit-linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
+  	background: -moz-linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
+	background: -ms-linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
+	background: -o-linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
+	background: linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
+	font-family: 'Lato', sans-serif;
+}

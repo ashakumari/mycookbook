@@ -2,11 +2,17 @@
 
 <p id="notice"><%= notice %></p>
 
-<div class="container clearfix">
+<!--div class="container">
+<%= react_component('Recipes', recipes: @recipes) %>
+<br/>
+<%= link_to 'New Recipe', new_recipe_path %>
+</div-->
+
+<div class="container">
 <table id="recipes">
   <thead>
     <tr>
-      <th colspan="2">Recipes</th>
+      <th colspan="2">Original Recipes</th>
     </tr>
   </thead>
 
@@ -30,11 +36,10 @@
     <% end %>
   </tbody>
 </table>
+</div>
 
 <br>
 
-<%= link_to 'New Recipe', new_recipe_path %>
-</div>
 
 <div>
   <div>Search by Cruisine</div>
